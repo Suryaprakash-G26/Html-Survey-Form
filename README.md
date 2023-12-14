@@ -12,3 +12,5 @@ This project demonstrates the basic structure and elements of an HTML form, spec
 - **Input Types:** Includes different input types such as text, radio buttons, checkboxes, and a textarea.
 - **Validation:** Uses HTML attributes for basic form validation.
 
+## Deployed Link
+[Click to Open](https://ubiquitous-praline-1dbbae.netlify.app/)
