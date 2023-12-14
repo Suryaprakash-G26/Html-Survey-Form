@@ -14,3 +14,12 @@ This project demonstrates the basic structure and elements of an HTML form, spec
 
 ## Deployed Link
 [Click to Open](https://ubiquitous-praline-1dbbae.netlify.app/)
+
+## Contact
+
+Feel free to reach out if you have any questions or suggestions:
+
+- [GitHub](https://github.com/Suryaprakash-G26)
+- [LinkedIn](https://www.linkedin.com/in/surya-prakash-6b2914191/)
+
+Happy coding! 🚀
